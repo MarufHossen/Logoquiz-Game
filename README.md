@@ -3,7 +3,7 @@ An Icomania like game based on React
 
 Software needed
 - Node.js
-- Gulp (or switch to Webpack, Grunt, etc.)
+- Gulp (or you switch to Webpack, Grunt, ..)
 
 Steps to set up the game
 1. Download the repository
