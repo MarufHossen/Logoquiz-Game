@@ -3,7 +3,7 @@ An Icomania like game based on React
 
 ![screenshot](https://raw.githubusercontent.com/Utakka/Logoquiz-Game/master/screenshot.jpg)
 
-Demo: https://proper.dev/demo/logoquiz/
+Demo: https://underdog.dev/demo/logoquiz/
 
 ### Prerequisites
 Software is quite standard. You need:
